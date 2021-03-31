@@ -12,7 +12,7 @@
         <junit.version>4.12</junit.version>
         <assertj.version>3.11.1</assertj.version>
         <sl4j.version>1.7.26</sl4j.version>
-        <guava.version>28.0-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <jacoco.version>0.8.4</jacoco.version>
     </properties>
 
